@@ -17,6 +17,6 @@ For the past 10 years, Kyle Hanslovan has supported defensive and offensive cybe
 Thanks to:
 * Mark Russinovich ([@markrussinovich](https://twitter.com/markrussinovich))
 * Casey Smith ([@subTee](https://twitter.com/subtee))
-* Matt Graegber ([@mattifestation](https://twitter.com/mattifestation))
+* Matt Graeber ([@mattifestation](https://twitter.com/mattifestation))
 * [@Hasherzade](https://twitter.com/hasherezade)
 * and of course [DerbyCon](https://www.derbycon.com/) for having us!
