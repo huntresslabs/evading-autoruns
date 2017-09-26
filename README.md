@@ -1,6 +1,8 @@
 # Evading Autoruns - DerbyCon 7.0
 [Slides](https://github.com/huntresslabs/evading-autoruns/raw/master/Evading_Autoruns_Slides.pdf) and reference material from Evading Autoruns presentation at DerbyCon 7 (September 2017)
 
+Watch the [talk](https://youtu.be/AEmuhCwFL5I) on YouTube
+
 ## Abstract
 When it comes to offense, maintaining access to your endpoints is key. For defenders, it's equally important to discover these footholds within your network. During this talk, Kyle and Chris will expose several semi-public and private techniques used to evade the most common persistence enumeration tools. Their techniques will explore ways to re-invent the run key, unconventionally abuse search order, and exploit trusted applications. To complement their technical explanations, each bypass will include a live demo and recommendations for detection.
 
