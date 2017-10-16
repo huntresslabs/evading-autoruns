@@ -20,5 +20,5 @@ Thanks to:
 * Mark Russinovich ([@markrussinovich](https://twitter.com/markrussinovich))
 * Casey Smith ([@subTee](https://twitter.com/subtee))
 * Matt Graeber ([@mattifestation](https://twitter.com/mattifestation))
-* [@Hasherzade](https://twitter.com/hasherezade)
+* [@Hasherezade](https://twitter.com/hasherezade)
 * and of course [DerbyCon](https://www.derbycon.com/) for having us!
